@@ -1,0 +1,2 @@
+print("MAIN", end=" KOYE GHULAM HO JO TO KAHE MAN LO ")
+print(" CHAL NEKAL BSDK ")
